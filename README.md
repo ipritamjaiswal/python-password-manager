@@ -2,6 +2,8 @@
 #### Video Demo:  <https://youtu.be/d_TZdy4cHaI?si=36QGxh_jYe96wa44>
 #### Description:
 
+<img src="shot.png" title="Screenshot" style="height:200px;" />
+
 This is the basic password manager application, entirely based on python having following features:
    - Generate a random password
    - Save your passwords with encryption
